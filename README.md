@@ -1,0 +1,2 @@
+## 概要
+SwiftUI.TabViewでUIViewControllerRepresentableに準拠するViewを表示する際に、タブ切り替えや画面回転時にHosting viewからUIViewControllerが消えて、画面が真っ白になるケースがあったので、事象再現のサンプルコードを作成
